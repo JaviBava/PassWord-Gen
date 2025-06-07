@@ -1,1 +1,1 @@
-<img src="Demo.png" alt="Descripción de la imagen" width="400"/>
+<img src="Demo.png" alt="" width="400"/>
